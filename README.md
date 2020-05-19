@@ -1,2 +1,2 @@
-# bert-humor-semeval-2020
-Code for our submission at Task-7 SemEval 2020
+# SemEval-2020-Humor
+Code for our submission at Task-7: Humor in edited news headlines - SemEval 2020
